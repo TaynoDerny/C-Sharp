@@ -42,7 +42,7 @@ namespace Homework
             }
         }
 
-        // Задание 1: Прямоугольник и квадраты
+        // Задание 1
         static void Task1()
         {
             Console.Write("Введите сторону A: ");
@@ -68,7 +68,7 @@ namespace Homework
             }
         }
 
-        // Задание 2: Банковский вклад
+        // Задание 2
         static void Task2()
         {
             double S = 10000;
@@ -92,7 +92,7 @@ namespace Homework
             }
         }
 
-        // Задание 3: Числовой ряд
+        // Задание 3
         static void Task3()
         {
             Console.Write("Введите A: ");
@@ -110,7 +110,7 @@ namespace Homework
             }
         }
 
-        // Задание 4: Реверс числа (справа налево)
+        // Задание 4
         static void Task4()
         {
             Console.Write("Введите целое число N > 0: ");
@@ -125,9 +125,9 @@ namespace Homework
             Console.Write("Число справа налево: ");
             while (N > 0)
             {
-                int digit = N % 10; // Берем последнюю цифру
+                int digit = N % 10; 
                 Console.Write(digit);
-                N = N / 10; // Убираем последнюю цифру
+                N = N / 10; 
             }
             Console.WriteLine();
         }
