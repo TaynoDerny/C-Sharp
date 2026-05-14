@@ -6,7 +6,7 @@ namespace HomeworkApp
     {
         static void Main(string[] args)
         {
-            // --- Задание 1: Квадрат ---
+            // Задание 1
             Console.WriteLine("=== Задание 1: Рисование квадрата ===");
             Console.Write("Введите длину стороны: ");
             int side = int.Parse(Console.ReadLine());
@@ -18,7 +18,7 @@ namespace HomeworkApp
             PrintSquare(side, symbol);
             Console.WriteLine();
 
-            // --- Задание 2: Палиндром ---
+            // Задание 2
             Console.WriteLine("=== Задание 2: Проверка на палиндром ===");
             Console.Write("Введите число: ");
             int number = int.Parse(Console.ReadLine());
@@ -27,7 +27,7 @@ namespace HomeworkApp
             Console.WriteLine(isPal ? "Это палиндром" : "Это не палиндром");
             Console.WriteLine();
 
-            // --- Задание 3: Фильтрация массива ---
+            //  Задание 3
             Console.WriteLine("=== Задание 3: Фильтрация массива ===");
             
             // Ввод оригинального массива
@@ -55,8 +55,6 @@ namespace HomeworkApp
             Console.WriteLine("\n\nДля выхода нажмите любую клавишу...");
             Console.ReadKey();
         }
-
-        // РЕАЛИЗАЦИЯ МЕТОДОВ
 
         static void PrintSquare(int side, char symbol)
         {
