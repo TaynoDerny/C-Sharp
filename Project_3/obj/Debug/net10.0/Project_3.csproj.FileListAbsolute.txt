@@ -1,0 +1,14 @@
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/Project_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/Project_3.AssemblyInfoInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/Project_3.AssemblyInfo.cs
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/Project_3.csproj.CoreCompileInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/bin/Debug/net10.0/Project_3
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/bin/Debug/net10.0/Project_3.deps.json
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/bin/Debug/net10.0/Project_3.runtimeconfig.json
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/bin/Debug/net10.0/Project_3.dll
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/bin/Debug/net10.0/Project_3.pdb
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/Project_3.dll
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/refint/Project_3.dll
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/Project_3.pdb
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/Project_3.genruntimeconfig.cache
+/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/Debug/net10.0/ref/Project_3.dll
