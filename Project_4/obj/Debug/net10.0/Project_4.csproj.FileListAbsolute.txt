@@ -1,0 +1,15 @@
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/bin/Debug/net10.0/Project_4
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/bin/Debug/net10.0/Project_4.deps.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/bin/Debug/net10.0/Project_4.runtimeconfig.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/bin/Debug/net10.0/Project_4.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/bin/Debug/net10.0/Project_4.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/Project_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/Project_4.AssemblyInfoInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/Project_4.AssemblyInfo.cs
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/Project_4.csproj.CoreCompileInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/Project_4.sourcelink.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/Project_4.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/refint/Project_4.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/Project_4.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/Project_4.genruntimeconfig.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/obj/Debug/net10.0/ref/Project_4.dll

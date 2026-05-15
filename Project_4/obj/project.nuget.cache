@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Y1CFuRksfI=",
+  "success": true,
+  "projectFilePath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_4/Project_4.csproj",
+  "expectedPackageFiles": [
+    "/home/Kirill/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/bin/Debug/net10.0/Project_5
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/bin/Debug/net10.0/Project_5.deps.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/bin/Debug/net10.0/Project_5.runtimeconfig.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/bin/Debug/net10.0/Project_5.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/bin/Debug/net10.0/Project_5.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/Project_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/Project_5.AssemblyInfoInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/Project_5.AssemblyInfo.cs
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/Project_5.csproj.CoreCompileInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/Project_5.sourcelink.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/Project_5.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/refint/Project_5.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/Project_5.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/Project_5.genruntimeconfig.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_5/obj/Debug/net10.0/ref/Project_5.dll
