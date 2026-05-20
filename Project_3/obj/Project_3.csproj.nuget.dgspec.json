@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/Project_3.csproj": {}
+    "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_3/Project_3.csproj": {}
   },
   "projects": {
-    "/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/Project_3.csproj": {
+    "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_3/Project_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/Project_3.csproj",
+        "projectUniqueName": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_3/Project_3.csproj",
         "projectName": "Project_3",
-        "projectPath": "/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/Project_3.csproj",
+        "projectPath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_3/Project_3.csproj",
         "packagesPath": "/home/Kirill/.nuget/packages/",
-        "outputPath": "/home/Kirill/Documents/VScode/HomeWork/C#/Project_3/obj/",
+        "outputPath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/Kirill/.nuget/NuGet/NuGet.Config"

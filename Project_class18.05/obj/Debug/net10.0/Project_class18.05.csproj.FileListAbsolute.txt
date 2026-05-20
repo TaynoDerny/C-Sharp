@@ -1,0 +1,5 @@
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_class18.05/obj/Debug/net10.0/Project_class18.05.GeneratedMSBuildEditorConfig.editorconfig
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_class18.05/obj/Debug/net10.0/Project_class18.05.AssemblyInfoInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_class18.05/obj/Debug/net10.0/Project_class18.05.AssemblyInfo.cs
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_class18.05/obj/Debug/net10.0/Project_class18.05.csproj.CoreCompileInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/Project_class18.05/obj/Debug/net10.0/Project_class18.05.sourcelink.json

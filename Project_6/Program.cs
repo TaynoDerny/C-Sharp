@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HomeworkLesson3
+namespace Program 
 {
     // Задание 1
     struct Article
@@ -72,7 +72,7 @@ namespace HomeworkLesson3
 
         public void Print()
         {
-            Console.WriteLine($"=== ЗАКАЗ #{OrderCode} от {OrderDate.ToShortDateString()} ===");
+            Console.WriteLine($" ЗАКАЗ #{OrderCode} от {OrderDate.ToShortDateString()} ===");
             Console.WriteLine($"Клиент: {Client.FullName}");
             Console.WriteLine("Состав заказа:");
             if (Items != null)
