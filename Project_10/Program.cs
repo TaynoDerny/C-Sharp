@@ -30,13 +30,13 @@ namespace Program
         Credit
     }
 
-    // Задание 1 (с добавленным полем из задания 5) 
+    // Задание 1 
     struct Article
     {
         public int ProductCode;    // Код товара
         public string ProductName; // Название товара
         public double Price;       // Цена товара
-        public ArticleType Type;   // ← Добавлено (задание 5)
+        public ArticleType Type;  
 
         public void Print()
         {
@@ -44,7 +44,7 @@ namespace Program
         }
     }
 
-    // Задание 2 (с добавленным полем из задания 6) 
+    // Задание 2 
     struct Client
     {
         public int ClientCode;      // Код клиента
@@ -53,7 +53,7 @@ namespace Program
         public string Phone;        // Телефон
         public int OrderCount;      // Количество заказов
         public double TotalSpent;   // Общая сумма заказов
-        public ClientType Type;     // ← Добавлено (задание 6)
+        public ClientType Type;    
 
         public void Print()
         {
@@ -75,7 +75,7 @@ namespace Program
         }
     }
 
-    // Задание 4 (с добавленным полем из задания 7) 
+    // Задание 4 
     struct Request
     {
         public int OrderCode;       // Код заказа
@@ -84,7 +84,7 @@ namespace Program
         public RequestItem[] Items; // Перечень товаров
         public PayType PaymentType; 
 
-        // Вычисляемое свойство: Сумма заказа
+        // Вычисление свойство: Сумма заказа
         public double TotalPrice
         {
             get
@@ -117,7 +117,7 @@ namespace Program
         }
     }
 
-    // Задание 8: Класс Student 
+    // Задание 8:
     class Student
     {
         public string LastName;
@@ -193,7 +193,7 @@ namespace Program
         }
     }
 
-    // Задание 9: 7 чудес света 
+    // Задание 9: 
     namespace SevenWonders
     {
         public class GreatPyramidOfGiza
@@ -292,7 +292,6 @@ namespace Program
         }
     }
 
-    // Точка входа 
     class Program
     {
         static void Main(string[] args)
