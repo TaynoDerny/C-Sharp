@@ -1,15 +1,12 @@
 ﻿using System;
 
-namespace HomeworkModule3
+namespace Program
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("=== Домашнее задание. Модуль 3, часть 1 ===\n");
-
-            // Задание 1: Квадрат из символа
-            Console.WriteLine("--- Задание 1: Квадрат из символа ---");
+           // Задание 1: 
             Console.Write("Введите длину стороны квадрата: ");
             int sideLength = int.Parse(Console.ReadLine());
             Console.Write("Введите символ: ");
@@ -17,16 +14,14 @@ namespace HomeworkModule3
             DrawSquare(sideLength, symbol);
             Console.WriteLine();
 
-            // Задание 2: Палиндром
-            Console.WriteLine("--- Задание 2: Проверка на палиндром ---");
+            // Задание 2:         
             Console.Write("Введите число: ");
             int number = int.Parse(Console.ReadLine());
             bool isPalindrome = IsPalindrome(number);
             Console.WriteLine($"Число {number} {(isPalindrome ? "является" : "НЕ является")} палиндромом");
             Console.WriteLine();
 
-            // Задание 3: Фильтрация массива
-            Console.WriteLine("--- Задание 3: Фильтрация массива ---");
+            // Задание 3:   
             int[] originalArray = { 1, 2, 6, -1, 88, 7, 6 };
             int[] filterArray = { 6, 88, 7 };
             int[] filteredResult = FilterArray(originalArray, filterArray);
@@ -39,31 +34,31 @@ namespace HomeworkModule3
             PrintArray(filteredResult);
             Console.WriteLine();
 
-            // Задание 4: Класс Веб-сайт
-            Console.WriteLine("--- Задание 4: Класс Веб-сайт ---");
+            // Задание 4:  
             Website site = new Website();
             site.InputData();
             site.DisplayData();
             Console.WriteLine($"Название сайта (через метод): {site.GetName()}");
             Console.WriteLine();
 
-            // Задание 5: Класс Журнал
-            Console.WriteLine("--- Задание 5: Класс Журнал ---");
+            // Задание 5:  
             Magazine journal = new Magazine();
             journal.InputData();
             journal.DisplayData();
             Console.WriteLine($"Год основания (через метод): {journal.GetYear()}");
             Console.WriteLine();
 
-            // Задание 6: Класс Магазин
-            Console.WriteLine("--- Задание 6: Класс Магазин ---");
+            // Задание 6:  
             Store store = new Store();
             store.InputData();
             store.DisplayData();
             Console.WriteLine($"Адрес магазина (через метод): {store.GetAddress()}");
+
+            Console.WriteLine("\nНажмите любую клавишу для выхода...");
+            Console.ReadKey();
         }
 
-        // ===================== ЗАДАНИЕ 1 =====================
+        //  ЗАДАНИЕ 1 
         static void DrawSquare(int sideLength, char symbol)
         {
             if (sideLength <= 0)
@@ -81,7 +76,7 @@ namespace HomeworkModule3
             }
         }
 
-        // ===================== ЗАДАНИЕ 2 =====================
+        //  ЗАДАНИЕ 2 
         static bool IsPalindrome(int number)
         {
             string numStr = number.ToString();
@@ -97,11 +92,10 @@ namespace HomeworkModule3
             return true;
         }
 
-        // ===================== ЗАДАНИЕ 3 =====================
+        //  ЗАДАНИЕ 3 
         static int[] FilterArray(int[] original, int[] filter)
         {
             int count = 0;
-            // Сначала посчитаем, сколько элементов останется
             for (int i = 0; i < original.Length; i++)
             {
                 bool found = false;
@@ -148,7 +142,7 @@ namespace HomeworkModule3
             Console.WriteLine();
         }
 
-        // ===================== ЗАДАНИЕ 4 =====================
+        //  ЗАДАНИЕ 4 
         class Website
         {
             private string name;
@@ -183,7 +177,7 @@ namespace HomeworkModule3
             public string GetIpAddress() { return ipAddress; }
         }
 
-        // ===================== ЗАДАНИЕ 5 =====================
+        //  ЗАДАНИЕ 5 
         class Magazine
         {
             private string name;
@@ -223,7 +217,7 @@ namespace HomeworkModule3
             public string GetEmail() { return contactEmail; }
         }
 
-        // ===================== ЗАДАНИЕ 6 =====================
+        //  ЗАДАНИЕ 6 
         class Store
         {
             private string name;
