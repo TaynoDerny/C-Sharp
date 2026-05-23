@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1g/fbo6yqc=",
+  "success": true,
+  "projectFilePath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05interface/28.05interface.csproj",
+  "expectedPackageFiles": [
+    "/home/Kirill/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
