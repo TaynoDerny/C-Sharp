@@ -1,0 +1,15 @@
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/bin/Debug/net10.0/25.05nasledovanye
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/bin/Debug/net10.0/25.05nasledovanye.deps.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/bin/Debug/net10.0/25.05nasledovanye.runtimeconfig.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/bin/Debug/net10.0/25.05nasledovanye.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/bin/Debug/net10.0/25.05nasledovanye.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/25.05nasledovanye.GeneratedMSBuildEditorConfig.editorconfig
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/25.05nasledovanye.AssemblyInfoInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/25.05nasledovanye.AssemblyInfo.cs
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/25.05nasledovanye.csproj.CoreCompileInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/25.05nasledovanye.sourcelink.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/25.05nasledovanye.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/refint/25.05nasledovanye.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/25.05nasledovanye.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/25.05nasledovanye.genruntimeconfig.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/25.05nasledovanye/obj/Debug/net10.0/ref/25.05nasledovanye.dll
