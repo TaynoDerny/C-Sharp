@@ -1,0 +1,15 @@
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/bin/Debug/net10.0/15.05statments
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/bin/Debug/net10.0/15.05statments.deps.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/bin/Debug/net10.0/15.05statments.runtimeconfig.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/bin/Debug/net10.0/15.05statments.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/bin/Debug/net10.0/15.05statments.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/15.05statments.GeneratedMSBuildEditorConfig.editorconfig
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/15.05statments.AssemblyInfoInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/15.05statments.AssemblyInfo.cs
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/15.05statments.csproj.CoreCompileInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/15.05statments.sourcelink.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/15.05statments.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/refint/15.05statments.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/15.05statments.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/15.05statments.genruntimeconfig.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/15.05statments/obj/Debug/net10.0/ref/15.05statments.dll
