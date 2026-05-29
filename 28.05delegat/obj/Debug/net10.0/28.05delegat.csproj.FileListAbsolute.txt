@@ -1,0 +1,15 @@
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/bin/Debug/net10.0/28.05delegat
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/bin/Debug/net10.0/28.05delegat.deps.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/bin/Debug/net10.0/28.05delegat.runtimeconfig.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/bin/Debug/net10.0/28.05delegat.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/bin/Debug/net10.0/28.05delegat.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/28.05delegat.GeneratedMSBuildEditorConfig.editorconfig
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/28.05delegat.AssemblyInfoInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/28.05delegat.AssemblyInfo.cs
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/28.05delegat.csproj.CoreCompileInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/28.05delegat.sourcelink.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/28.05delegat.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/refint/28.05delegat.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/28.05delegat.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/28.05delegat.genruntimeconfig.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/Debug/net10.0/ref/28.05delegat.dll
