@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/28.05delegat.csproj",
-      "projectName": "28.05delegat",
-      "projectPath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/28.05delegat.csproj",
+      "projectUniqueName": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/01.06iscl/01.06iscl.csproj",
+      "projectName": "01.06iscl",
+      "projectPath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/01.06iscl/01.06iscl.csproj",
       "packagesPath": "/home/Kirill/.nuget/packages/",
-      "outputPath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/obj/",
+      "outputPath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/01.06iscl/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/Kirill/.nuget/NuGet/NuGet.Config"

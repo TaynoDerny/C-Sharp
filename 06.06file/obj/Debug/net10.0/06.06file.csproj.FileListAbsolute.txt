@@ -1,0 +1,15 @@
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/bin/Debug/net10.0/06.06file
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/bin/Debug/net10.0/06.06file.deps.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/bin/Debug/net10.0/06.06file.runtimeconfig.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/bin/Debug/net10.0/06.06file.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/bin/Debug/net10.0/06.06file.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/06.06file.GeneratedMSBuildEditorConfig.editorconfig
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/06.06file.AssemblyInfoInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/06.06file.AssemblyInfo.cs
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/06.06file.csproj.CoreCompileInputs.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/06.06file.sourcelink.json
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/06.06file.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/refint/06.06file.dll
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/06.06file.pdb
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/06.06file.genruntimeconfig.cache
+/home/Kirill/Documents/VScode/HomeWork/C-Sharp/06.06file/obj/Debug/net10.0/ref/06.06file.dll

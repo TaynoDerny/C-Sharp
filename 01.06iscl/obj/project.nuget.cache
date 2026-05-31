@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AXfCA2v247o=",
+  "dgSpecHash": "9RFIZA4Nkrw=",
   "success": true,
-  "projectFilePath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/28.05delegat/28.05delegat.csproj",
+  "projectFilePath": "/home/Kirill/Documents/VScode/HomeWork/C-Sharp/01.06iscl/01.06iscl.csproj",
   "expectedPackageFiles": [
     "/home/Kirill/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
   ],

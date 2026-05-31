@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PaymentBill>
+  <RatePerDay>100.50</RatePerDay>
+  <Days>5</Days>
+  <PenaltyRatePerDay>15.20</PenaltyRatePerDay>
+  <OverdueDays>2</OverdueDays>
+</PaymentBill>
